@@ -7,7 +7,7 @@
 <div align="center">
 
 ```
-> whoami
+> Hello!
 Bárbara Pironato Sherveninas | Engenheira de IA Jr. · Analista de Dados
 Localização: Joinville, SC
 Status: [ONLINE] Aberta a oportunidades e conexões
@@ -34,10 +34,6 @@ modelos_ia: OpenAI ChatGPT · Google Gemini · Anthropic Claude · Groq
 localização: Joinville, SC - Brasil
 portfólio: https://portfliobarbara.netlify.app/
 ```
-
-### `</system_log>`
-
----
 
 <h3 align="center">🖥️ TECH STACK</h3>
 
