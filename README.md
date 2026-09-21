@@ -1,6 +1,4 @@
-# 👩🏻‍💻 Bárbara Sherveninas
 
-### Engenheira de IA Jr. · Analista de Dados · Automação de Processos
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=Bárbara%20Sherveninas&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Banner do perfil de Bárbara Sherveninas"/>
