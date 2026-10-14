@@ -34,7 +34,7 @@ about_me = {
         "Análise de Dados",
         "Automação de Processos"
     ],
-    "linguagens": ["Python", "SQL", "HTML", "CSS", "JavaScript"],
+    "linguagens": ["Python", "SQL", "HTML", "CSS", "JavaScript", "Java"],
     "automacao": ["n8n", "APIs", "Agentes de IA"],
     "objetivo": "Transformar ideias em soluções inteligentes"
 }
